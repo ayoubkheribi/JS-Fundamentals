@@ -1,4 +1,4 @@
-let school = 'best school';
+let school = '';
 
 if(school.length <= 1){
   console.log('No argument');
